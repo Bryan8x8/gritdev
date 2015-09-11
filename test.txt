@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-test
-=======
 this is a test
->>>>>>> c3c9dbf6f2e3c560350f8c3deb70441d307d3ba7
+
